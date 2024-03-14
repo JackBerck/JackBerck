@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zaki Dzulfikar</h1>
 <h3 align="center">A passionate full stack web developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jackberck&label=Profile%20views&color=0e75b6&style=flat" alt="jackberck" /> </p>
-
 - 🔮 I'm currently studying at [Universitas Jenderal Soedirman](https://unsoed.ac.id/)
 
 - 🌱 I’m currently learning **ReactJs, VueJs, Laravel, MongoDB, and NodeJs**
