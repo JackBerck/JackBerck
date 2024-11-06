@@ -3,7 +3,7 @@
 
 - 🔮 I'm currently studying at [Universitas Jenderal Soedirman](https://unsoed.ac.id/)
 
-- 🌱 I’m currently learning **ReactJs, VueJs, Laravel, MongoDB, and NodeJs**
+- 🌱 I’m currently learning **ReactJs and Laravel**
 
 - 📫 How to reach me **zakidzlfkr@gmail.com**
 
